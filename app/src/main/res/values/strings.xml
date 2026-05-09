@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Click Assistant</string>
+    <string name="accessibility_service_description">Click Assistant needs accessibility access to replay recorded tap gestures.</string>
+</resources>
